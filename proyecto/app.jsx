@@ -78,7 +78,7 @@ export default function App() {
             <style>{`
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap');
         body { font-family: 'Inter', sans-serif; }
-      `}</style>
+    `}</style>
             <script src="https://cdn.tailwindcss.com"></script>
 
             <NavBar />
